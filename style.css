@@ -1,0 +1,53 @@
+.photos {
+    text-align: middle;
+}
+/* The first style is the index.html 
+*/
+.koo{text-align: middle;
+}
+#colour {color: grey
+}
+#pr {
+    color: red;
+} 
+#nic {color: red;
+      font-size: 18px
+}
+#ice {color: green;
+      font-size: 20px
+}
+#ear {color: red;
+
+}
+
+#font {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+/* The Styling of the table
+*/
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px;
+    border: 2px solid black;
+}
+/* styling for stock in vaseline
+*/
+#reuse{color: grey;
+
+}
+/* Styling for Home Bar
+*/
+#note a:hover{
+    color: black;
+}
+#note {width:100%;
+       height: 40px;
+       background-color: skyblue;
+       padding-top: 12px;
+}
+body {
+    background-color: rgb( 244, 200, 134)
+}
